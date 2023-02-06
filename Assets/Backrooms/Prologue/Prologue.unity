@@ -690,11 +690,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 79197ecfbc3a4294a89ce589dac02cf2, type: 3}
-    m_FontSize: 45
+    m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 4
-    m_MaxSize: 50
+    m_MaxSize: 82
     m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -725,7 +725,6 @@ GameObject:
   - component: {fileID: 824232920}
   - component: {fileID: 824232921}
   - component: {fileID: 824232922}
-  - component: {fileID: 824232923}
   - component: {fileID: 824232924}
   - component: {fileID: 824232925}
   - component: {fileID: 824232934}
@@ -814,7 +813,6 @@ MonoBehaviour:
   eventHandler: {fileID: 824232918}
   commandList:
   - {fileID: 824232924}
-  - {fileID: 824232923}
   - {fileID: 824232922}
   - {fileID: 824232920}
   - {fileID: 824232925}
@@ -947,33 +945,6 @@ MonoBehaviour:
   character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 8300000, guid: 790fa8a7c3432b644accbd14a4a6779d, type: 3}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &824232923
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 824232914}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 5
-  indentLevel: 0
-  storyText: 
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1844,8 +1815,8 @@ Canvas:
   m_GameObject: {fileID: 1299003882}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 605876162}
   m_PlaneDistance: 100
   m_PixelPerfect: 1
   m_ReceivesEvents: 1
