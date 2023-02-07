@@ -10,10 +10,12 @@ public class CopySprite : MonoBehaviour
     private SpriteRenderer _spriteRenderer;
 
     private Sprite _spriteTemp;
+    private Color _defaultColor;
 
     private void Start()
     {
         _spriteRenderer = GetComponent<SpriteRenderer>();
+        _defaultColor = _spriteRenderer.color;
     }
 
     private void Update()
