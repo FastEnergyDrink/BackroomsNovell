@@ -166,7 +166,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &65551522
 GameObject:
@@ -530,7 +530,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &605876164
 MonoBehaviour:
@@ -910,11 +910,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 207.55338, y: -345.39984}
+  scrollPos: {x: 249.74084, y: -346.78305}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 520
-  zoom: 0.63999987
+  zoom: 0.6099999
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -924,7 +924,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 824233024}
   selectedCommands:
-  - {fileID: 824233093}
+  - {fileID: 824233026}
   variables: []
   description: 
   stepPause: 0
@@ -952,7 +952,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 78.337944
     y: 57.198196
-    width: 122.91668
+    width: 115.573784
     height: 40
   tint: {r: 0.5566038, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -1010,7 +1010,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &824232920
 MonoBehaviour:
@@ -1494,7 +1494,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 66.89934
     y: 142.39104
-    width: 154.16669
+    width: 143.98909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1574,7 +1574,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 88.54884
     y: 243.95363
-    width: 109.375015
+    width: 103.551926
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1637,7 +1637,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 54.5282
     y: 353.23178
-    width: 192.70836
+    width: 178.96178
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1707,7 +1707,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 89.0497
     y: 450.20117
-    width: 122.91668
+    width: 115.573784
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3334,7 +3334,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 98.14607
     y: 555.03
-    width: 110.41668
+    width: 103.551926
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3416,7 +3416,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 90.082245
     y: 664.81055
-    width: 133.33334
+    width: 125.40985
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3488,8 +3488,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 108.407104
-    y: 765.7553
-    width: 88.54167
+    y: 764.1928
+    width: 84.97269
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3576,9 +3576,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 152
   indentLevel: 0
-  storyText: "\u041F\u043E \u0441\u0435\u0440\u0435\u0434\u0438\u043D\u0435 \u0431\u044B\u043B
-    \u043A\u0430\u043A\u043E\u0439-\u0442\u043E \u0442\u0451\u043C\u043D\u044B\u0439
-    \u0441\u0438\u043B\u0443\u044D\u0442."
+  storyText: "{color= #939393}\u041F\u043E \u0441\u0435\u0440\u0435\u0434\u0438\u043D\u0435
+    \u0431\u044B\u043B \u043A\u0430\u043A\u043E\u0439-\u0442\u043E \u0442\u0451\u043C\u043D\u044B\u0439
+    \u0441\u0438\u043B\u0443\u044D\u0442.{/color}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5263,7 +5263,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1148016738
 GameObject:
@@ -5310,7 +5310,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1270616656
 GameObject:
@@ -5561,7 +5561,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 664244948}
   punchObject: {fileID: 121570121}
-  writingSpeed: 30
+  writingSpeed: 23
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -5585,7 +5585,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 1299003891}
   nameText: {fileID: 65551524}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 664244951}
+  storyText: {fileID: 0}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 2083675433}
   fitTextWithImage: 1
@@ -5677,7 +5677,7 @@ RectTransform:
   m_Children:
   - {fileID: 121570126}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -5741,7 +5741,7 @@ Transform:
   m_Children:
   - {fileID: 2025109637}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1383392894
 GameObject:
@@ -5901,7 +5901,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1668237279
 GameObject:
@@ -6062,7 +6062,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1886113877
 MonoBehaviour:
@@ -6352,7 +6352,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2083675430
 GameObject:
